@@ -1,0 +1,21 @@
+table,th,td {
+	border: 2px solid;
+	border-color: darkred;
+	color: darkred;
+	font-family: sans-serif;
+	cell-padding: 15px;
+	text-align: center;
+}
+
+body {
+  background-color: palevioletred;
+}
+
+table {
+	border-spacing: 1px;
+	margin: 5px;
+	background-color: lightyellow;
+}
+
+.logo {
+	text-align: center;}
